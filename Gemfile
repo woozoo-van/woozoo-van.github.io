@@ -38,9 +38,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # https://pages.github.com/versions/ :: Github Pages Dependency versions!!!
 
-<<<<<<< HEAD
-gem "minimal-mistakes-jekyll"
-=======
 gem "jekyll-feed", "~> 0.12"
 gem "jekyll-seo-tag", "~> 2.6"
->>>>>>> a722a669ea5f9672185173aa1f33453f88754875
