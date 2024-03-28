@@ -14,6 +14,8 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 231", group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem "jekyll-include-cache", group: :jekyll_plugins
+
 group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
 end
@@ -33,3 +35,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # https://pages.github.com/versions/ :: Github Pages Dependency versions!!!
+
+gem "minimal-mistakes-jekyll"
