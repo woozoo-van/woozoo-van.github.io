@@ -1,7 +1,0 @@
----
-layout: post
-title:  "우당탕탕"
-date:   2024-03-27 15:51:11 +0900
-categories: jekyll update
----
-진짜.. 문서 너무 쓰레기다... ㅠㅜ
